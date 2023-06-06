@@ -5,7 +5,7 @@
 <ul>
   <li>:mortar_board: Análise e Desenvolvimento de Sistemas</li>
   <li>:globe_with_meridians: Desevolvimento Web</li>
-  <li>:computer: Ênfase no Back-end</li>
+  <li>:computer: Ênfase em Back-end</li>
   <li>:open_book: Conhecimento em: HTML | CSS | PHP | MySQL | JavaScript </li>
   <li>:open_file_folder: Frameworks e Ferramentas: Bootstrap | Laravel | Controle de Versão Git 
 </ul>
